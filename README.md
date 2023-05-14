@@ -4,6 +4,9 @@
 
 ## Supplementary Materials for **PPG2BP-cGAN**
 
+### Related Works for PPG-based BP Waveform Estimation
+Please see `./.word` file.
+
 <p align="center">
 <img src="misc/cGAN.png" width="900" class="center">
 </p>
